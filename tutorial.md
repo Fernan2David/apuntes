@@ -14,6 +14,7 @@ sudo adduser nombre_usurio sudo
 
 ```sh
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
+```
 
 ### Instalar instalador gráfico de paquetes debian
 

@@ -32,3 +32,9 @@ sudo apt-get install transmission-gtk
 Equivale a:
 ´´´sh
 sudo apt-get install htop libreoffice transmision-gtk
+
+### Ejecutar *scripts*
+
+´´´sh
+bash nombre_scripts
+´´´

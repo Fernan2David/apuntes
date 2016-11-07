@@ -5,9 +5,8 @@ http://www.matthiaskauer.com/2015/03/install-boot-repair-on-debian-from-ubuntu-p
 
 ### Activar sudo:
 
-```sh
 su
-apt-get install sudo
+```apt-get install sudo
 sudo adduser nombre_usurio sudo
 ´´´
 
@@ -15,7 +14,6 @@ sudo adduser nombre_usurio sudo
 
 ```sh
 sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade && sudo apt-get autoremove
-```
 
 ### Instalar instalador gráfico de paquetes debian
 
